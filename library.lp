@@ -1,6 +1,6 @@
 (librepcb_library a8c41810-6965-4f00-ba1e-4669492da2a4
  (name "Texas Instruments")
- (description "Integrated circuits (inofficial).")
+ (description "Integrated circuits (unofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.1.3")
