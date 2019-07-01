@@ -4,7 +4,7 @@
 
 Integrated circuits.
 
-Inofficial library, not endorsed by Texas Instruments.
+Unofficial library, not endorsed by Texas Instruments.
 
 ## License
 
