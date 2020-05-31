@@ -9,7 +9,7 @@
  (category a621d579-8715-4edf-816e-5715f97cd2d7)
  (schematic_only false)
  (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
- (prefix "IC")
+ (prefix "U")
  (signal 6cf5982f-41ea-427d-8e28-325ce7f15311 (name "AIN5_GND") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
