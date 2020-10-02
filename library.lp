@@ -3,7 +3,7 @@
  (description "Integrated circuits (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1.3")
+ (version "0.1.4")
  (created 2019-01-28T12:34:44Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Texas_Instruments.lplib")
