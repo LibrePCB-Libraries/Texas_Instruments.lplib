@@ -3,7 +3,7 @@
  (description "LM2903N low-power, low-offset voltage dual comparator in a PDIP-8 package.")
  (keywords "LM2903,LM2903N,LM2903-N")
  (author "Johannes Bauer")
- (version "0.1")
+ (version "0.2")
  (created 2020-10-07T17:40:02Z)
  (deprecated false)
  (generated_by "")

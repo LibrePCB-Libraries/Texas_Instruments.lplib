@@ -3,7 +3,7 @@
  (description "Nano power, high input voltage supervisor with manual reset and programmable delay.\n\nOutput type: Push-Pull Active-Low\nThreshold voltage: 2.5V")
  (keywords "ti,tps3840,supervisor,reset,ic,push-pull")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2020-06-07T19:06:22Z)
  (deprecated false)
  (generated_by "")

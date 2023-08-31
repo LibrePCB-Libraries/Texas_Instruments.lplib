@@ -3,7 +3,7 @@
  (description "LF442-MIL Dual Low Power JFET Input Operational Amplifier With PDIP Footprint")
  (keywords "")
  (author "pinoaffe")
- (version "0.1")
+ (version "0.2")
  (created 2019-01-22T17:06:39Z)
  (deprecated false)
  (generated_by "")

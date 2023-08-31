@@ -3,7 +3,7 @@
  (description "Nano power, high input voltage supervisor with manual reset and programmable delay.\n\nReset active-high.")
  (keywords "ti,tps3840,supervisor,reset,ic")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2020-06-07T13:07:53Z)
  (deprecated false)
  (generated_by "")

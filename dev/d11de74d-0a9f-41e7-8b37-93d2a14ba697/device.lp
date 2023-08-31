@@ -3,7 +3,7 @@
  (description "LM393N low-power, low-offset voltage dual comparator in a PDIP-8 package.")
  (keywords "LM393,LM393N,LM393-N")
  (author "Johannes Bauer")
- (version "0.1")
+ (version "0.2")
  (created 2020-09-09T19:10:46Z)
  (deprecated false)
  (generated_by "")

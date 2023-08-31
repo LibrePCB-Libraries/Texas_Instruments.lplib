@@ -3,7 +3,7 @@
  (description "Automotive 250-mA, Ultra-Low-Noise, Low-IQ LDO.\n\nAvailable in various fixed output options.\n\nDatasheet: https://www.ti.com/lit/ds/symlink/lp5907-q1.pdf")
  (keywords "regulator,ldo,dc")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-01-29T12:05:33Z)
  (deprecated false)
  (generated_by "")

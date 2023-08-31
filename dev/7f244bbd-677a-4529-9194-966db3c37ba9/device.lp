@@ -3,7 +3,7 @@
  (description "LM193N low-power, low-offset voltage dual comparator in a PDIP-8 package.")
  (keywords "LM193,LM193N,LM193-N")
  (author "Johannes Bauer")
- (version "0.1")
+ (version "0.2")
  (created 2020-10-07T17:39:26Z)
  (deprecated false)
  (generated_by "")

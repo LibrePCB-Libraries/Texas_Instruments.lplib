@@ -3,7 +3,7 @@
  (description "Quad JFET-input operational amplifier in PDIP")
  (keywords "")
  (author "pinoaffe")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-12-13T00:28:31Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "16-Bit 500kSPS 8-Channel Single-Supply SAR ADC With Bipolar Input Ranges")
  (keywords "spi,adc,bipolar")
  (author "Matej K.")
- (version "0.1")
+ (version "0.2")
  (created 2020-04-11T22:57:37Z)
  (deprecated false)
  (generated_by "")

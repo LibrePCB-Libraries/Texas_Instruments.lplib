@@ -3,7 +3,7 @@
  (description "Low-Voltage 8-Channel I2C Switch with Reset")
  (keywords "i2c,mux,multiplexer")
  (author "Marc Wittwer")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-05-31T11:16:46Z)
  (deprecated false)
  (generated_by "")
