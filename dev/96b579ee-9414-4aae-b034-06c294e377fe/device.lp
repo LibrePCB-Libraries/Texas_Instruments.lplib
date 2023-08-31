@@ -1,5 +1,5 @@
 (librepcb_device 96b579ee-9414-4aae-b034-06c294e377fe
- (name "ADS8688")
+ (name "TI ADS8688")
  (description "16-Bit 500kSPS 8-Channel Single-Supply SAR ADC With Bipolar Input Ranges")
  (keywords "spi,adc,bipolar")
  (author "Matej K.")
@@ -48,4 +48,10 @@
  (pad ec561123-e8a0-4b1f-a4d7-8805a0786339 (signal 65650453-983f-4153-b010-fa91191e3e34))
  (pad f022f74a-b049-421a-96fa-ee35f60f9560 (signal 7036269f-ba48-4cae-8a8e-5445091900a2))
  (pad f979151e-2452-4e79-8f68-84abb90cd4ac (signal b9882983-0414-4c9a-8606-365878fee509))
+ (part "ADS8688IDBT" (manufacturer "Texas Instruments")
+  (attribute "PACKING" (type string) (unit none) (value "Tube 50"))
+ )
+ (part "ADS8688IDBTR" (manufacturer "Texas Instruments")
+  (attribute "PACKING" (type string) (unit none) (value "T&R 2000"))
+ )
 )

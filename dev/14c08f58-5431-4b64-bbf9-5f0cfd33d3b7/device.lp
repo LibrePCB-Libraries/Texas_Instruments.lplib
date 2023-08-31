@@ -1,5 +1,5 @@
 (librepcb_device 14c08f58-5431-4b64-bbf9-5f0cfd33d3b7
- (name "TL074xN")
+ (name "TI TL074xN")
  (description "Quad JFET-input operational amplifier in PDIP")
  (keywords "")
  (author "pinoaffe")

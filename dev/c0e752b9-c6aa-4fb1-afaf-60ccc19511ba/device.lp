@@ -1,5 +1,5 @@
 (librepcb_device c0e752b9-c6aa-4fb1-afaf-60ccc19511ba
- (name "LP5907-Q1")
+ (name "TI LP5907-Q1")
  (description "Automotive 250-mA, Ultra-Low-Noise, Low-IQ LDO.\n\nAvailable in various fixed output options.\n\nDatasheet: https://www.ti.com/lit/ds/symlink/lp5907-q1.pdf")
  (keywords "regulator,ldo,dc")
  (author "Danilo B.")

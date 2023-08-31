@@ -1,5 +1,5 @@
 (librepcb_device 75def0e8-b01d-4cce-838e-9ed3c9339b92
- (name "LM2903N")
+ (name "TI LM2903N")
  (description "LM2903N low-power, low-offset voltage dual comparator in a PDIP-8 package.")
  (keywords "LM2903,LM2903N,LM2903-N")
  (author "Johannes Bauer")
@@ -18,4 +18,8 @@
  (pad a193ba1f-6f5c-4bff-b5d0-93810ce154c4 (signal 7ebd4fba-aa61-480f-8ff8-a40a4e42861e))
  (pad c8ce3c8f-d3ca-484a-aeea-882badbfd039 (signal 9c2466d0-5e89-4404-8212-838885757eb7))
  (pad fc6081c5-2de5-4306-916b-c4f860e790d2 (signal 2f3fa197-d00d-4ed4-b6ad-d0672060fd8e))
+ (part "LM2903N" (manufacturer "Texas Instruments")
+ )
+ (part "LM2903N/NOPB" (manufacturer "Texas Instruments")
+ )
 )

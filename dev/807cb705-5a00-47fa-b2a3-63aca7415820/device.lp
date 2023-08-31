@@ -1,5 +1,5 @@
 (librepcb_device 807cb705-5a00-47fa-b2a3-63aca7415820
- (name "LF442-MILACN")
+ (name "TI LF442-MILACN")
  (description "LF442-MIL Dual Low Power JFET Input Operational Amplifier With PDIP Footprint")
  (keywords "")
  (author "pinoaffe")
@@ -19,4 +19,6 @@
  (pad a193ba1f-6f5c-4bff-b5d0-93810ce154c4 (signal 7ebd4fba-aa61-480f-8ff8-a40a4e42861e))
  (pad c8ce3c8f-d3ca-484a-aeea-882badbfd039 (signal 9c2466d0-5e89-4404-8212-838885757eb7))
  (pad fc6081c5-2de5-4306-916b-c4f860e790d2 (signal 2f3fa197-d00d-4ed4-b6ad-d0672060fd8e))
+ (part "LF442-MILACN" (manufacturer "Texas Instruments")
+ )
 )

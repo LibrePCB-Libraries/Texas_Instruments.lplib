@@ -1,5 +1,5 @@
 (librepcb_component 32e6c08d-cc5b-4115-9f88-fc4352a3eb75
- (name "TPS3840xH")
+ (name "TI TPS3840xH")
  (description "Nano power, high input voltage supervisor with manual reset and programmable delay.\n\nReset active-high.")
  (keywords "ti,tps3840,supervisor,reset,ic")
  (author "Danilo Bargen")
@@ -11,7 +11,7 @@
  (schematic_only false)
  (default_value "{{MPN or DEVICE or COMPONENT}}")
  (prefix "U")
- (signal 0c207808-b6d5-4e01-b6ea-22a70923f7d5 (name "nMR") (role passive)
+ (signal 0c207808-b6d5-4e01-b6ea-22a70923f7d5 (name "!MR") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal efb3a124-8b50-4938-afe9-eb4718347b72 (name "RST") (role passive)
