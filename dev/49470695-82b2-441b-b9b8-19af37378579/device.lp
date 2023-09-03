@@ -1,9 +1,9 @@
 (librepcb_device 49470695-82b2-441b-b9b8-19af37378579
- (name "TPS3840PL25")
+ (name "TI TPS3840PL25")
  (description "Nano power, high input voltage supervisor with manual reset and programmable delay.\n\nOutput type: Push-Pull Active-Low\nThreshold voltage: 2.5V")
  (keywords "ti,tps3840,supervisor,reset,ic,push-pull")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2020-06-07T19:06:22Z)
  (deprecated false)
  (generated_by "")
@@ -15,4 +15,6 @@
  (pad 71df5b0a-353c-4d80-b3b2-64ae4ef9be41 (signal 488690a4-a92d-4d0b-bc6c-9a3945a220ea))
  (pad 9cb2f3ab-e3d2-4b3a-8c4a-1eb12a0088ae (signal e5247c46-a4d8-47d6-8469-daea43a30391))
  (pad a4df33fa-f948-4e0d-862a-4298306fce44 (signal cc42c29f-1a73-463c-a6d2-c42167703502))
+ (part "TPS3840PL25" (manufacturer "Texas Instruments")
+ )
 )
