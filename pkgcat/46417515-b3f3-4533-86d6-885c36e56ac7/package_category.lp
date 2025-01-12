@@ -1,0 +1,10 @@
+(librepcb_package_category 46417515-b3f3-4533-86d6-885c36e56ac7
+ (name "Texas Instruments")
+ (description "")
+ (keywords "")
+ (author "eto-")
+ (version "0.1")
+ (created 2023-10-10T12:21:20Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
