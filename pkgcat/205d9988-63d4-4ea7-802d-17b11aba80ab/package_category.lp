@@ -1,0 +1,10 @@
+(librepcb_package_category 205d9988-63d4-4ea7-802d-17b11aba80ab
+ (name "Texas Instruments")
+ (description "")
+ (keywords "ti")
+ (author "eduardosm")
+ (version "0.1")
+ (created 2026-04-21T18:07:38Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
